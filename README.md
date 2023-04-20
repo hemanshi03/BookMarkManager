@@ -1,2 +1,0 @@
-# BookMarkManager
-Manage your bookmarks
